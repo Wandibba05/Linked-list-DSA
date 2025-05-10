@@ -38,6 +38,7 @@ students.append("Emmanuel Onyango")
 students.append("Trevor Yano")
 students.append("Angela Irungu")
 students.append("Emmanuel Wandibba")
+students.append("Mercy Nyambura")
 
 
 students.display()
